@@ -1,0 +1,20 @@
+.root{
+    -fx-background-color: F0F0F0;
+}
+.label{
+    -fx-font: bold  12pt "Arial";
+}
+.text-field{
+   -fx-border-color: purple;
+}
+.text-field:hover{
+    -fx-background-color: FFF;
+    -fx-border-color: purple;
+}
+.text-field:focused{
+    -fx-border-color: purple;
+}
+.button{
+    -fx-background-color: blue;
+    -fx-text-fill:FFF;
+}

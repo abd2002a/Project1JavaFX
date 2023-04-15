@@ -1,0 +1,18 @@
+.root{
+    -fx-background-color: F0F0F0;
+}
+.label{
+    -fx-font: bold  14pt "Arial";
+    -fx-text-fill:purple;
+}
+.button{
+    -fx-background-color: #DFB951;
+    -fx-text-fill:FFF;
+    -fx-font: bold italic 12pt "Arial";
+}
+}
+#con{
+    -fx-background-color: #37306B;
+    -fx-text-fill:FFF;
+    -fx-font: bold italic 12pt "Arial";
+}
